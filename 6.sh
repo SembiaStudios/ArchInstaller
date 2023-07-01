@@ -45,9 +45,6 @@ PKGS=(
   'yarn'
   'code'
 
-  # Web
-  'firefox'
-
   # Chat
   'discord'
 
