@@ -12,7 +12,9 @@ echo
 
 PKGS=(
         'xfce4'              
-        'xfce4-goodies'        
+        'xfce4-goodies'  
+        'lightdm'
+        'lightdm-gtk-greeter'
 )
 
 for PKG in "${PKGS[@]}"; do
