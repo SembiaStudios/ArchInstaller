@@ -19,6 +19,7 @@ PKGS=(
   # System
   
   'menulibre'
+  'yay'
 
   # UTILS
 
