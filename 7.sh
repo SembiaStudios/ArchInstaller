@@ -41,6 +41,12 @@ PKGS=(
 
   'spotify'
 
+  # VM
+
+  'quickemu'
+  ' quickgui'
+  
+
 )
 
 cd ${HOME}/AURIC
