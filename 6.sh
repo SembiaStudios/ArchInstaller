@@ -48,6 +48,10 @@ PKGS=(
   # Chat
   'discord'
 
+  # Games
+
+  'steam'
+
   # Media
   'vlc'
   'simplescreenrecorder'
