@@ -25,6 +25,9 @@ PKGS=(
   'enpass-bin'
   'oomox'
 
+  # Browser
+  'brave-bin'
+
   # Media
 
   'spotify'
