@@ -25,6 +25,10 @@ PKGS=(
   'enpass-bin'
   'oomox'
 
+  # Dev
+
+  'visual-studio-code-bin'
+
   # Browser
   'brave-bin'
 
