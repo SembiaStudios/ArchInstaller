@@ -45,7 +45,6 @@ PKGS=(
   'nodejs'
   'npm'
   'yarn'
-  'code'
 
   # Chat
   'discord'
