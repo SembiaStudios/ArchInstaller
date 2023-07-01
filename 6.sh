@@ -25,6 +25,8 @@ PKGS=(
   'unzip'
   'unrar'
   'xfce4-terminal'
+  'jq'            
+  'jshon'
 
   #Disk
 
