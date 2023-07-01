@@ -11,8 +11,8 @@ echo "Installiere XFCE"
 echo
 
 PKGS=(
-        'xfce4'                 # XFCE Desktop
-        'xfce4-goodies'         # All the extras
+        'xfce4'              
+        'xfce4-goodies'        
 )
 
 for PKG in "${PKGS[@]}"; do
