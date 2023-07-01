@@ -28,6 +28,10 @@ PKGS=(
   # Browser
   'brave-bin'
 
+  # Games
+
+  'heroic-games-launcher-bin'
+
   # Media
 
   'spotify'
