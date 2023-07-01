@@ -36,15 +36,6 @@ PKGS=(
 
   'spotify'
 
-  # Themes
-
-    'gtk-theme-arc-git'
-    'adapta-gtk-theme-git'
-    'paper-icon-theme'
-    'tango-icon-theme'
-    'tango-icon-theme-extras'
-    'numix-icon-theme-git'
-    'sardi-icons'
 )
 
 cd ${HOME}/AURIC
