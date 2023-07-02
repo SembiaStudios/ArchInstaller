@@ -35,10 +35,6 @@ PKGS=(
 
   'spotify'
 
-  # VM
-
-  'quickemu'
-  ' quickgui'
   
 
 )
