@@ -1,10 +1,4 @@
 #!/usr/bin/env bash
-#-------------------------------------------------------------------------
-#     
-#    Sembia Studios  
-#    
-#  Arch Linux Post Install Setup and Config
-#-------------------------------------------------------------------------
 
 echo
 echo "Installiere XORG"
